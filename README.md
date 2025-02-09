@@ -26,3 +26,5 @@ $ npm start
 
 ## :mailbox: Contact
   - <a target="_blank" href="mailto:ucefhammadi@gmail.com">E-mail</a>
+
+  author - Nitin Chavhan
